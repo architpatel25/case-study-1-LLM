@@ -157,3 +157,6 @@ app.index()
 print("\nLanguage Model Workflows Result:")
 print(list(app.workflow("search", ["select text from txtai where similar('feel good story') limit 1"])))
 print(app.search("select translation(text, 'ta') text from txtai where similar('feel good story') limit 1"))
+
+## OUTPUT::
+![Screenshot from 2024-03-26 17-02-53](https://github.com/architpatel25/case-study-1-LLM/assets/25317936/2fa5a860-9403-4571-a611-80736b45b3de)
