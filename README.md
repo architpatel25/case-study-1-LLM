@@ -1,5 +1,5 @@
 ## Architecture Diagram 
-![Semantic Search](https://github.com/architpatel25/case-study-1-LLM/assets/25317936/ea6fdff3-7b80-444c-89a0-063975d6dea8)
+![LLM-SemanticSearch](https://github.com/architpatel25/case-study-1-LLM/assets/25317936/a34d4781-28de-411b-beba-91cc4cecb4c0)
 
 ## 1. Semantic Search ##
 from txtai import Embeddings
